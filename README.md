@@ -7,3 +7,6 @@
 ## Resources
 - [Signal Tracking Guide](https://blog.quant-view.xyz/trading-signal-tracking.html)
 - [Forex Scalping](https://blog.quant-view.xyz/forex-scalping-2026.html)
+
+## Community
+- [Telegram](https://t.me/GFIL_Trading) | [Discord](https://discord.gg/nPuta6Cr4)
